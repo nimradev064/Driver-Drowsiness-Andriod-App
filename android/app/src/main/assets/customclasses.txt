@@ -1,0 +1,5 @@
+Closed-Eye
+Eyes
+Open-Eye
+Tired
+Yawn
