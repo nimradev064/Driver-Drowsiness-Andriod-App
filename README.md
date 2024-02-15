@@ -31,7 +31,6 @@ The integration of the YOLOv5s model into the Driver's Drowsiness Android app re
 
 https://github.com/nimradev064/Driver-Drowsiness-Andriod-App/assets/157350960/1373ade9-e15b-42c6-ba1c-5a2d35270531
 
-<br>
 ### Source
 
 * https://www.tensorflow.org/lite/android/tutorials/object_detection
